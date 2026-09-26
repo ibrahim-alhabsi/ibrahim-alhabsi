@@ -1,6 +1,6 @@
 # Hi, I'm Ibrahim Alhabsi 👋
 
-**Mechatronics Engineer** | Control Systems · Robotics · Embedded Systems
+**Mechatronics Engineer** | Control Systems · Robotics · Embedded Systems<br>
 📍 Barka, Oman · 🎓 B.Sc. Mechatronics Engineering, Sultan Qaboos University (2026)
 
 I design systems where mechanics, electronics, and control meet — from multi-robot formation control to vision-based servo tracking and lithium power systems.
