@@ -10,8 +10,8 @@ I design systems where mechanics, electronics, and control meet — from multi-r
 ## 🔧 Featured Projects
 
 ### 🤖 [Multi-Robot Formation Control](https://github.com/ibrahim-alhabsi/multi-robot-formation-control)
-Graduation project: distributed formation control of mobile robots using graph theory (consensus-based control), simulated and implemented in ROS2.
-`ROS2` `Graph Theory` `MATLAB` `Python` `Distributed Control`
+Graduation project: decentralized distance-based formation control of differential-drive robots using graph theory. Custom 3D-printed robots with ESP32, ESP-NOW communication, and encoder–IMU sensor fusion (Kalman filter).
+`ESP32` `ESP-NOW` `Graph Theory` `MATLAB` `CoppeliaSim` `Kalman Filter` `PID`
 
 ### 🎯 [Vision-Based Servo Tracking System](https://github.com/ibrahim-alhabsi/esp32-cam-ball-tracker) 🚧 In Progress
 Real-time object tracking with an ESP32-CAM and OpenCV, driving a servo through a closed-loop PID controller — a single-axis gimbal prototype.
